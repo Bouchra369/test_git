@@ -1,0 +1,25 @@
+omaima benboukthir21:21
+git config --global user.email ‘"omaymabenboukthir@gmailcom’’
+git config --global user.name ‘’Omaima93’’
+omaima benboukthir21:33
+git commit -m  "un cas de test a été ajouté"
+omaima benboukthir21:36
+git push -u origin master
+omaima benboukthir21:39
+git remote add origin  "path"
+omaima benboukthir22:07
+git add nom-fichier
+git commit -m "commentaire"
+git push -u origin master 
+omaima benboukthir22:09
+https://github.com/
+
+omaima benboukthir22:23
+git checkout -b <nom-branche>
+omaima benboukthir22:26
+dir> test1.txt
+
+omaima benboukthir22:44
+git checkout master 
+git merge branch1
+git push -u origin master
