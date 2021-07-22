@@ -1,0 +1,12 @@
+ Le volume dans le lecteur D s'appelle Data
+ Le num‚ro de s‚rie du volume est 39CF-580F
+
+ R‚pertoire de D:\test_git
+
+22/07/2021  22:26    <DIR>          .
+22/07/2021  22:26    <DIR>          ..
+18/07/2021  19:20               245 rech_nom.tc
+18/07/2021  18:38               251 temps_rep_rech.tc
+22/07/2021  22:26                 0 text.txt
+               3 fichier(s)              496 octets
+               2 R‚p(s)  486ÿ778ÿ363ÿ904 octets libres
